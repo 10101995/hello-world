@@ -1,0 +1,249 @@
+/* PARTIE HEADER */
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper
+{
+    width: 1080px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 10px;
+    
+    
+}
+body
+{
+    background-color: darkorange;
+}
+img
+{
+    width: 350px;
+    margin-left: 360px;
+    margin-top: 20px;
+    margin-bottom: auto;
+    border-radius: 10px;
+    
+}
+nav
+{
+    background-color: #35ef0f;
+    border-style: solid ;
+    border-color: floralwhite;
+    border-width: 2px;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+ul
+{
+    list-style: none;
+}
+
+
+header nav
+{
+    text-align: center;
+    margin-left: auto;
+    margin-top: 30px;
+}
+header nav li
+{
+    display: inline;
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+header nav li a
+{
+    text-decoration: none;
+    color: floralwhite;
+    font-family: "Caviar Dreams", serif;
+}
+section div
+{
+    text-align: center;
+    padding-bottom: 50px;
+    text-decoration-line: none;
+}
+h1
+{
+    color:#ffa300;
+    font-size: 100px;
+    font-family: "Caviar Dreams", serif;
+}
+.button-1
+{
+    text-decoration: none;
+    color:#fff;
+    font-size: 30px;
+    font-family: "Caviar Dreams", serif;
+    background-color: #ffa300;
+    border-radius: 2px;
+}
+/* PARTIE AKAWABA */
+
+#main-image
+{
+    height: 200px;
+    background: url(images/elephant-walking-on-the-road-uhd-4k-wallpaper.jpg) center no-repeat;
+    border-bottom: solid 3px #fff;
+    border-top: solid 3px #fff;
+    padding-top: 150px; 
+}
+
+/* PARTIE DECOUVRIR */
+
+#step-1
+{
+    background: url(images/image%203.png) no-repeat top center;
+    border-radius: 10px;
+    border: solid 3px #fff;
+}
+#step-2
+{
+    background: url(images/abidjan0927.png) no-repeat top center;
+    border-radius: 10px;
+    border: solid 3px #fff;
+}
+#step-3
+{
+    background: url(images/image%201.png) no-repeat top center;
+    border-radius: 10px;
+    border: solid 3px #fff;
+}
+#steps ul
+{
+    margin: 80px 0;
+
+}
+#steps ul li
+{
+    width: 300px;
+    line-height: 400px;
+    float: left;
+    padding-top: 140px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    text-align: center;
+}
+#steps ul li:first-child
+{
+    margin-left: 12px;
+}
+h2
+{
+    font-size: 30px;
+    font-family: "Caviar Dreams", serif;
+    color: #222;
+    
+}
+
+/* RESERVEZ MAINTENANT */
+
+#contact
+{
+    padding: 60px 0;
+    margin-top: 30px;
+}
+form
+{
+    height: 70px;
+    background-color: floralwhite;
+    border-left: solid 3px #35ef0f;
+    border-bottom: solid 3px #35ef0f;
+    border-right: solid 3px #35ef0f;
+    
+}
+h3
+{
+    color: floralwhite;
+    padding-bottom: 30px;
+    font-size: 30px;
+    font-family: "Caviar Dreams", serif;
+}
+p
+{
+    background-color: floralwhite;
+    padding-bottom: 30px;
+    color: orange;
+    font-family: cursive;
+    padding-top: 10px;
+    border-left: solid 3px #35ef0f;
+    border-top: solid 3px #35ef0f;
+    border-right: solid 3px #35ef0f;
+}
+label
+{
+    font-family: "Caviar Dreams", serif;
+}
+input
+{
+    border-radius: 20px;
+    height: 25px;
+    
+}
+
+/* FOOTER */
+
+footer
+{
+    background-color: #35ef0f;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top: solid 4px #fff;
+    padding-bottom: 40px;
+}
+footer div img
+{
+    width: 200px;
+    margin-left: 50px;
+}
+.copyright
+{
+    float: right;
+    margin-right: 30px;
+    font-weight: bold;
+}
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
